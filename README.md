@@ -1,3 +1,3 @@
 # My package project
 
-A simple example an packaged and modules.
+A simple example on packages and modules.
