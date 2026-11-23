@@ -1,3 +1,3 @@
 # My package project
 
-A simple example on packages and modules.
+A simple example on packages, modules and systems.argv.
